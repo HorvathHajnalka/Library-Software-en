@@ -1,0 +1,6 @@
+01;Book1;Author1;Publisher1;2024;Hungarian;book;False;False
+02;Book2;Author2;Publisher2;2024;Hungarian;book;True;False
+03;Book3;Author3;Publisher3;2024;Hungarian;book;False;False
+04;Book4;Author4;Publisher4;2024;Hungarian;book;True;False
+05;Book5;Author5;Publisher5;2024;Hungarian;book;False;False
+06;Book6;Author6;Publisher6;2024;Hungarian;book;False;False

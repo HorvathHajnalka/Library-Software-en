@@ -1,0 +1,5 @@
+A;A1;Veszprem;06300000000;example@gmail.com;pw;admin;position
+A2;A2;Veszprem;06300000000;example@gmail.com;pw;admin;position
+K;K1;Veszprem;06300000000;example@gmail.com;pw;librarian;position
+K2;K2;Veszprem;06300000000;example@gmail.com;pw;librarian;position
+

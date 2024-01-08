@@ -1,0 +1,64 @@
+[
+  {
+    "Membership_fee": 0.0,
+    "Overdue_fee": 0.0,
+    "Name": "O",
+    "ID": "O1",
+    "Address": "Veszprem",
+    "Tel": "06300000000",
+    "Email": "example@gmail.com",
+    "Password": "pw",
+    "Permission": "reader",
+    "Borrowings": [
+      {
+        "Books": [
+          {
+            "Book_id": "04",
+            "Title": "Book4",
+            "Author": "Author4",
+            "Publisher": "Publisher4",
+            "Publication_year": 2024,
+            "Language": "Hungarian",
+            "Category": "book",
+            "Is_borrowed": true,
+            "Is_reserved": false
+          }
+        ],
+        "Borrow_date": "2023.11.30",
+        "Due_date": "2023.12.30",
+        "Reader_id": "O1",
+        "Borrow_id": "borrow1"
+      },
+      {
+        "Books": [
+          {
+            "Book_id": "05",
+            "Title": "Book5",
+            "Author": "Author5",
+            "Publisher": "Publisher5",
+            "Publication_year": 2024,
+            "Language": "Hungarian",
+            "Category": "book",
+            "Is_borrowed": true,
+            "Is_reserved": false
+          },
+          {
+            "Book_id": "06",
+            "Title": "Book6",
+            "Author": "Author6",
+            "Publisher": "Publisher6",
+            "Publication_year": 2024,
+            "Language": "Hungarian",
+            "Category": "book",
+            "Is_borrowed": true,
+            "Is_reserved": false
+          }
+        ],
+        "Borrow_date": "2023.12.06",
+        "Due_date": "2024.01.06",
+        "Reader_id": "O1",
+        "Borrow_id": "borrow4"
+      }
+    ]
+  }
+]
