@@ -1,6 +1,6 @@
 # Library Management System
 
-Welcome to the Library Management System, a software solution designed for managing library operations with Role-Based Access Control (RBAC). Developed using C# and object-oriented programming (OOP) principles, our system caters to the varying needs of different users including administrators, librarians, and readers. This system is accompanied by detailed documentation, including activity diagrams, use case tables, and a class diagram, to provide a clear overview of its functionality and architecture.
+Library Management System is a software solution designed for managing library operations with Role-Based Access Control (RBAC). Developed using C# and object-oriented programming (OOP) principles, our system caters to the varying needs of different users including administrators, librarians, and readers. This system is accompanied by detailed documentation, including activity diagrams, use case tables, and a class diagram, to provide a clear overview of its functionality and architecture.
 
 Note: This version of the Library Management System operates through a console-based interface, offering a text-driven menu system instead of a graphical user interface (GUI).
 
